@@ -52,11 +52,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wassim-Azaiez&show_icons=true&theme=tokyonight&hide_border=true" alt="Wassim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wassim-Azaiez&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Wassim's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wassim-Azaiez&theme=tokyonight&hide_border=true" alt="Wassim's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wassim-Azaiez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wassim-Azaiez&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
@@ -79,9 +79,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/wassim-azaiez/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ton.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
